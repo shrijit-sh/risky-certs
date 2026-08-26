@@ -20,3 +20,7 @@ sqwcfi5FcF9CMj+k20z6uaL/8o5f49OXdw==
 
 
 root:$6$LnUhhUi45srUKt9i$4Hp6VRTOB2mxvsYH8mwsCfBryg6hCbm4JJjV26KplN8ewZ7EUVqQDkLKDW.O8XRHx.B76JkwXtyD3wnAXEuZN1:3044:3045::/home/root:/bin/ftpsh
+
+
+aws_access_key_id = yLryKGwcGc3ez9G8YAnjeYMQOc # Informative, can't be used alone
+aws_secret_access_key = nAH2VzKrMrRjySLlt8HCdFU3tM2TUuUZgh39NX
