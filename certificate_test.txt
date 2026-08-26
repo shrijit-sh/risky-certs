@@ -24,3 +24,6 @@ root:$6$LnUhhUi45srUKt9i$4Hp6VRTOB2mxvsYH8mwsCfBryg6hCbm4JJjV26KplN8ewZ7EUVqQDkL
 
 aws_access_key_id = yLryKGwcGc3ez9G8YAnjeYMQOc # Informative, can't be used alone
 aws_secret_access_key = nAH2VzKrMrRjySLlt8HCdFU3tM2TUuUZgh39NX
+
+export AWS_SECRET_ACCESS_KEY=nAH2VzKrMrRjySLlt8HCdFU3tM2TUuUZgh39NX
+
